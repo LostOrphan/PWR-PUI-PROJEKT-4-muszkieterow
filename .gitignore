@@ -1,5 +1,4 @@
 /front/flake.lock
-/front/flake.nix
 /front/.direnv
 /front/.envrc
 node_modules/
